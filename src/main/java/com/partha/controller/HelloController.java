@@ -8,7 +8,7 @@ public class HelloController {
 	
 	@RequestMapping("/")
 	public String helloExample() {
-		return "Hello Partha, Welcome to Springboot Project";
+		return "Hello Partha, Welcome to Springboot microservices Project";
 	}
 
 }
